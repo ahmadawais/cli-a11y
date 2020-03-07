@@ -1,0 +1,24 @@
+{
+	"name": "cli-a11y",
+	"version": "0.0.1",
+	"description": "CLI a11y messages.",
+	"license": "MIT",
+	"repository": "ahmadawais/cli-a11y",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-a11y",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"scripts": {
+		"test": "node test.js"
+	}
+}
