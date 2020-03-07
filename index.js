@@ -1,6 +1,14 @@
-/* CLI A 11 Y */
+/* CLI a11y */
+const chalk = require('chalk');
+const dim = chalk.dim;
 
-/**
- * Cli A 11 Y.
- */
-module.exports = () => {};
+module.exports = options => {
+	const opts = {
+		toggle: false,
+		...options
+	};
+
+	if (opts.toggle) {
+		console.log(`${dim(`❯ Use arrow-keys. [enter/return] to submit.`)}`);
+	}
+};

@@ -22,8 +22,31 @@ npm install cli-a11y
 ## Usage
 
 ```js
-const cliA11Y = require('cli-a11y');
+const cliA11y = require('cli-a11y');
+
+cliA11y({toggle: true});
+// ❯ Use arrow-keys. [enter/return] to submit.
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### cliA11y(options?)
+
+#### ❯ options
+
+Type: `object`<br>
+Default: `{}` (optional)
+
+You can specify the options below.
+
+#### ❯ toggle
+
+Type: `boolean`<br>
+When set to `true` it prints the a11y message for CLIs with prompts.
 
 <br>
 
