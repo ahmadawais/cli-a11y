@@ -25,7 +25,7 @@ npm install cli-a11y
 const cliA11y = require('cli-a11y');
 
 cliA11y({toggle: true});
-// ❯ Use arrow-keys. [enter/return] to submit.
+// ❯ Select with arrow-keys ← → and then press ⏎ [enter/return] to submit.
 ```
 
 <br />

@@ -9,6 +9,6 @@ module.exports = options => {
 	};
 
 	if (opts.toggle) {
-		console.log(`${dim(`❯ Use arrow-keys. [enter/return] to submit.`)}`);
+		console.log(`${dim(`❯ Select with arrow-keys ← → and then press ⏎ [enter/return] to submit.`)}`);
 	}
 };
