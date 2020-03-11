@@ -29,12 +29,28 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/AhmadAwais/cli-a11y/compare/1.0.0...1.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Message Lingo [`505039d`](https://github.com/AhmadAwais/cli-a11y/commit/505039d78fc6b33263f3424f3aea4db1534fc2a5) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 📦 First commit [`1843446`](https://github.com/ahmadawais/cli-a11y/commit/18434464f1e495b63488dff37b5bf1d4ef4687ec) <br>
-> 📦 First version [`45a51a2`](https://github.com/ahmadawais/cli-a11y/commit/45a51a27c9cacb96fdc60473dde7892cb6360e56) <br>
+> 📦 First commit [`1843446`](https://github.com/AhmadAwais/cli-a11y/commit/18434464f1e495b63488dff37b5bf1d4ef4687ec) <br>
+> 📦 First version [`45a51a2`](https://github.com/AhmadAwais/cli-a11y/commit/45a51a27c9cacb96fdc60473dde7892cb6360e56) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog update [`eba8675`](https://github.com/AhmadAwais/cli-a11y/commit/eba8675f42e4681c1da063175b8168dc071a40e9) <br>
 
 <br>
 
