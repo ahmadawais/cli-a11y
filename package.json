@@ -1,6 +1,6 @@
 {
 	"name": "cli-a11y",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "CLI a11y messages.",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-a11y",
